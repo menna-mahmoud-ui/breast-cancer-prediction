@@ -66,6 +66,7 @@ Building an interactive dashboard for predictions.
 Menna Mahmoud
 
 🔗 GitHub: [menna-mahmoud-ui](https://github.com/menna-mahmoud-ui)
+
 🔗 LinkedIn: LinkedIn Profile (https://www.linkedin.com/in/menna-mahmoud-84aa0033b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
